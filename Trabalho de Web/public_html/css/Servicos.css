@@ -19,3 +19,14 @@ h1, h2, h3, h4 {
     font-weight: inherit;
     color: #363636;
 }
+
+.menu-opcoes{
+    position: absolute;
+    bottom: 0;
+    right: 0
+}
+
+.menu-opcoes ul li{
+    display: inline;
+    margin-left: 20px
+}
