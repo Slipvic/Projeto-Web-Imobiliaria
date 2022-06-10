@@ -21,7 +21,7 @@ h1, h2, h3, h4 {
 }
 
 .menu-opcoes{
-    position: absolute;
+    
     bottom: 0;
     right: 0
 }
@@ -29,4 +29,8 @@ h1, h2, h3, h4 {
 .menu-opcoes ul li{
     display: inline;
     margin-left: 20px
+}
+
+.cabecalho{
+    display: inline;
 }
