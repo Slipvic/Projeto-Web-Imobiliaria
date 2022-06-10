@@ -12,23 +12,23 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 940px;
-    border-top: 50px solid #45543D;
 }
 
 h1, h2, h3, h4 {
     font-weight: inherit;
-    color: #363636;
 }
 
 .menu-opcoes{
-    
-    bottom: 0;
-    right: 0
+    color: #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px
 }
 
 .menu-opcoes ul li{
     display: inline;
-    margin-left: 20px
+    margin-left: 20px;
+    color: #FFF
 }
 
 .cabecalho{

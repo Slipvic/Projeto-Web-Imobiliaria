@@ -14,7 +14,6 @@ body{
     margin-left: auto;
     margin-right: auto;
     width: 940px;
-    border-top: 50px solid #45543D;
 }
 a{
   text-decoration: none;
@@ -90,4 +89,26 @@ hr {
     color: #CCCCCC;
     text-align: center;
     margin: 50px 150px;
+}
+img{
+    max-width:50%;
+    max-height:50%;
+    width: auto;
+    height: auto;
+}
+.menu-opcoes{
+    color: #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px
+}
+
+.menu-opcoes ul li{
+    display: inline;
+    margin-left: 20px;
+    color: #FFF
+}
+
+.cabecalho{
+    display: inline;
 }
