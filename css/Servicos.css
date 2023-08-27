@@ -1,0 +1,36 @@
+img{
+    max-width:50%;
+    max-height:50%;
+    width: auto;
+    height: auto;
+}
+
+body{
+    text-align: center;
+    color: #333;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 940px;
+}
+
+h1, h2, h3, h4 {
+    font-weight: inherit;
+}
+
+.menu-opcoes{
+    color: #FFF;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px
+}
+
+.menu-opcoes ul li{
+    display: inline;
+    margin-left: 20px;
+    color: #FFF
+}
+
+.cabecalho{
+    display: inline;
+}
